@@ -1,16 +1,11 @@
-### Hi there 👋
+![balls](https://files.catbox.moe/d2t85h.png)
+<div align="center">
 
-<!--
-**s6rp/s6rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<a href="https://github.com/s6rp">git</a> |
+<a href="https://discord.com/users/902627827919257600">discord</a> |
+<a href="https://www.last.fm/user/d6wn_">lustfm</a> | 
+<a href="httpps://twitter.com/sarptrid">twt</a> | 
+<a href="httpps://rosey.lol">cute domain</a> | 
+<a href="httpps://catboys.pics">cute domain 2</a>
+</div>
