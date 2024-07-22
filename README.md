@@ -1,6 +1,12 @@
 - 📫 How to reach me: <a href="https://discordapp.com/users/338517945451806731">Discord</a>
 - 😄 Pronouns: any - she/him
 - ⚡ Fun fact: im sending pipe bombs to your mailbox
+<br>
+a href="https://discord.com/users/338517945451806731">
+                <img class="profile"
+                    src="https://lanyard.cnrad.dev/api/338517945451806731?theme=light&borderRadius=0px&animated=:true&bg=ffb3d0&idleMessage=sarp+is+doing+nothing+right+now!+💤" />
+            </a>
+</br>
 
 <img src="https://iplogger.online/button%20stash/button112.gif">
 <!---
