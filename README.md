@@ -2,9 +2,7 @@
 - 😄 Pronouns: any - she/him
 - ⚡ Fun fact: im sending pipe bombs to your mailbox
 <br>
-a href="https://discord.com/users/338517945451806731">
-                <img class="profile"
-                    src="https://lanyard.cnrad.dev/api/338517945451806731?theme=light&borderRadius=0px&animated=:true&bg=ffb3d0&idleMessage=sarp+is+doing+nothing+right+now!+💤" />
+<img class="profile" src="https://lanyard.cnrad.dev/api/338517945451806731?theme=light&borderRadius=0px&animated=:true&bg=ffb3d0&idleMessage=sarp+is+doing+nothing+right+now!+💤" />
             </a>
 </br>
 
