@@ -1,5 +1,5 @@
 - 📫 How to reach me: <a href="https://discordapp.com/users/338517945451806731">Discord</a>
-- 😄 Pronouns: she/her he/him
+- 😄 Pronouns: huge/cunt
 - ⚡ Fun fact: im sending pipe bombs to your mailbox
 <br>
 <img class="profile" src="https://lanyard.cnrad.dev/api/338517945451806731?theme=dark&borderRadius=10px&animated=:true&bg=171717&idleMessage=sarp+is+doing+nothing+right+now!+💤" />
